@@ -1,0 +1,1 @@
+// Firebase integration for saving and syncing data
